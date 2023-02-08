@@ -1,1 +1,2 @@
-realpath filename
+#!/bin/bash
+ pwd
